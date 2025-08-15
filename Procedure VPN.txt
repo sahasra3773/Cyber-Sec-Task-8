@@ -1,0 +1,13 @@
+VPN Setup and Testing - Procedure
+
+1. Choose a reputable free VPN service (e.g., ProtonVPN Free Tier, Windscribe Free).
+2. Sign up for a free account using a valid email address.
+3. Download and install the VPN client from the official website.
+4. Open the VPN application and log in with your credentials.
+5. Connect to a VPN server (preferably the closest location for better speed).
+6. Before connecting, check your current IP address at https://whatismyipaddress.com and take a screenshot.
+7. Connect to the VPN and check your IP address again. Take a screenshot showing the change.
+8. Open any secure website (e.g., https://example.com) to verify encrypted traffic. Take a screenshot of the VPN app showing 'Connected' status.
+9. Disconnect the VPN and compare your browsing speed and IP address before and after.
+10. Record your observations on encryption, speed, and privacy in a report.
+11. Upload all screenshots and your report to a GitHub repository.
