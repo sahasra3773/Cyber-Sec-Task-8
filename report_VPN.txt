@@ -1,0 +1,29 @@
+VPN Setup and Testing - Report
+
+**VPN Used:** ProtonVPN Free Tier
+**Server Location:** Germany
+
+### IP Verification:
+- Before VPN: [screenshot_before.png]
+- After VPN: [screenshot_after.png]
+
+### Encryption Test:
+- Verified traffic encryption via VPN client status window. [vpn_connected.png]
+
+### Observations:
+- IP successfully changed from original to German server IP.
+- Internet speed slightly reduced after connection.
+- Encrypted tunnel established successfully.
+
+### Benefits of VPN:
+1. Protects user privacy.
+2. Hides real IP address.
+3. Encrypts internet traffic.
+4. Useful on public networks.
+
+### Limitations of VPN:
+1. Can slow down internet connection.
+2. Some websites may block VPN access.
+3. Not completely anonymous; still traceable in some scenarios.
+
+**Conclusion:** VPN is an effective privacy tool but should be used with awareness of its limitations.
