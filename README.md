@@ -1,5 +1,5 @@
 # Cyber-Sec-Task-8
-Identify and Remove Suspicious Browser Extensions (VPN )
+VPN Setup and Testing
 ## Objective
 Understand the role of VPNs in protecting privacy and secure communication.
 
